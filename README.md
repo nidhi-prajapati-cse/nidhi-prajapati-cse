@@ -23,8 +23,8 @@ Currently working 🚀 on **CampusTrace – Lost & Found Application**
 ---
 
 ## 🌟 Featured Projects
-- **[CampusTrace](https://github.com/yourusername/campustrace)** – Lost & Found System with Real-Time Recovery  
-- **[PGLife](https://github.com/yourusername/pglife)** – PG Accommodation Finder  
+- **[CampusTrace](https://github.com/nidhi-prajapati-cse/CampusTrace.git)** – Lost & Found System with Real-Time Recovery  
+- **[PGLife](https://github.com/nidhi-prajapati-cse/Project-PGLife.git)** – PG Accommodation Finder  
 
 ---
 
