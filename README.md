@@ -1,7 +1,7 @@
 # Hi there, I'm Nidhi 👋
 
 **BTech Computer Science Student 🎓 **  
-Passionate about **Web Development** & **Machine Learning**  💻 
+Passionate about **Web Development** & **Machine Learning**  💻 ,
 Currently working 🚀 on **CampusTrace – Lost & Found Application**  
 
 ---
